@@ -1,4 +1,5 @@
 # Support Group Network
+<img src="https://media.giphy.com/media/GXFDStd2CP1ba/giphy.gif" width="460" height="480">
 School assignment to design and make a new site for the nonprofit organization Support Group Network.
 
 ## Backend
